@@ -1,0 +1,1 @@
+Program([ConstDecl(getInt,IntLiteral(2)),VarDecl(getInt,IntLiteral(1))])

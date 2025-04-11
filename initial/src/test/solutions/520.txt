@@ -1,0 +1,1 @@
+Program([ConstDecl(j,StructLiteral(haha,[]))])

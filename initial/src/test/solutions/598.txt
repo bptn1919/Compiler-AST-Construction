@@ -1,0 +1,1 @@
+Program([MethodDecl(p,Id(Product),FuncDecl(ApplyDiscount,[ParDecl(percent,FloatType)],VoidType,Block([Assign(FieldAccess(Id(p),price),BinaryOp(FieldAccess(Id(p),price),*,BinaryOp(IntLiteral(1),-,BinaryOp(Id(percent),/,IntLiteral(100)))))])))])

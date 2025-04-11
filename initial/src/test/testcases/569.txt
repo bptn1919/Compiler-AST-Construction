@@ -1,0 +1,6 @@
+
+            type FileHandler interface { 
+                Open(filename string) boolean; 
+                Close();
+            }
+        

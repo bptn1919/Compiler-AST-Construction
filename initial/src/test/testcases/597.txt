@@ -1,0 +1,3 @@
+
+            func (e Employee) GetSalary() float { return e.salary; };
+        

@@ -1,0 +1,3 @@
+type Point struct {
+                        func distance(other Point) float { return 1.5; };
+                    };

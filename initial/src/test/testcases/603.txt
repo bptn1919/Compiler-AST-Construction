@@ -1,0 +1,3 @@
+
+            func (m Manager) ApproveRequest(reqID int) { m.approved := true; };
+        

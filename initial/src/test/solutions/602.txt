@@ -1,0 +1,1 @@
+Program([MethodDecl(u,Id(User),FuncDecl(UpdateEmail,[ParDecl(newEmail,StringType)],VoidType,Block([Assign(FieldAccess(Id(u),email),Id(newEmail))])))])

@@ -1,0 +1,6 @@
+
+            type NetworkDevice interface { 
+                Connect(address string) boolean; 
+                Disconnect();
+            }
+        

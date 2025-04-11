@@ -1,0 +1,3 @@
+
+            func (p Person) GetName() string { return "Alice"; };
+        

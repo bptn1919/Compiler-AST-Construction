@@ -1,0 +1,1 @@
+Program([MethodDecl(s,Id(Student),FuncDecl(SetAge,[ParDecl(age,IntType)],VoidType,Block([Assign(FieldAccess(Id(s),age),Id(age))])))])

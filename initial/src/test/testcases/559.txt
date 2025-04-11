@@ -1,0 +1,7 @@
+
+            type Computer struct { 
+                cpu string; 
+                ram int; 
+                ssd boolean; 
+            }
+        

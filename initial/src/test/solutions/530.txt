@@ -1,0 +1,1 @@
+Program([ConstDecl(g,IntLiteral(0x10E))])

@@ -1,0 +1,1 @@
+Program([ConstDecl(i,FuncCall(foo,[IntLiteral(1),IntLiteral(2),IntLiteral(3)]))])

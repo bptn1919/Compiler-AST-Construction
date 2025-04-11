@@ -1,0 +1,7 @@
+
+func Add(x int, y int) int {
+    let sum = x + y;
+    return sum;
+}
+const Add = 100;
+    

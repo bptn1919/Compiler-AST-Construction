@@ -1,0 +1,3 @@
+
+            func (p Product) ApplyDiscount(percent float) { p.price := p.price * (1 - percent / 100); };
+        

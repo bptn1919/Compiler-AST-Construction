@@ -1,0 +1,1 @@
+Program([InterfaceType(FileHandler,[Prototype(Open,[StringType],BoolType),Prototype(Close,[],VoidType)])])

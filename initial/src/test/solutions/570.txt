@@ -1,0 +1,1 @@
+Program([InterfaceType(NetworkDevice,[Prototype(Connect,[StringType],BoolType),Prototype(Disconnect,[],VoidType)])])

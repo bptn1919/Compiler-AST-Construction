@@ -1,0 +1,3 @@
+type Car struct {
+                        func drive(speed int) {};
+                    };

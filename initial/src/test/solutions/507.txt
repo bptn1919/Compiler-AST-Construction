@@ -1,0 +1,1 @@
+Program([VarDecl(g,StringType,StringLiteral("hello"))])

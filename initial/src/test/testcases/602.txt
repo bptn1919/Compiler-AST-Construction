@@ -1,0 +1,3 @@
+
+            func (u User) UpdateEmail(newEmail string) { u.email := newEmail; };
+        

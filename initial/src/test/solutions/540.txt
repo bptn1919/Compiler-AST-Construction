@@ -1,0 +1,1 @@
+Program([ConstDecl(g,BinaryOp(BinaryOp(Id(x),&&,Id(y)),||,UnaryOp(!,Id(z))))])

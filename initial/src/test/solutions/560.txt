@@ -1,0 +1,1 @@
+Program([StructType(House,[(address,StringType),(numRooms,IntType),(price,FloatType)],[])])

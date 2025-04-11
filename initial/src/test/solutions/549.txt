@@ -1,0 +1,1 @@
+Program([FuncDecl(foo,[ParDecl(a,IntType),ParDecl(b,FloatType)],VoidType,Block([Assign(Id(a),BinaryOp(Id(a),+,IntLiteral(1))),Assign(Id(b),BinaryOp(Id(b),*,FloatLiteral(2.5)))]))])

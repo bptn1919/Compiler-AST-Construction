@@ -1,0 +1,2 @@
+const getInt = 2;
+var getInt = 1;

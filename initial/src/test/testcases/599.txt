@@ -1,0 +1,3 @@
+
+            func (o Order) GetTotal() float { return o.total; };
+        

@@ -1,0 +1,1 @@
+Program([MethodDecl(c,Id(Counter),FuncDecl(Increment,[],VoidType,Block([Assign(FieldAccess(Id(c),value),BinaryOp(FieldAccess(Id(c),value),+,IntLiteral(1)))])))])

@@ -1,0 +1,3 @@
+func main() {
+                        p1.distance(p2);
+                    }

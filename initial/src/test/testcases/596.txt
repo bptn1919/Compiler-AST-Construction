@@ -1,0 +1,3 @@
+
+            func (b Bank) Transfer(from string, to string, amount float) bool { return true; };
+        

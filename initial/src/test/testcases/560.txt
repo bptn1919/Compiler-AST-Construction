@@ -1,0 +1,7 @@
+
+            type House struct { 
+                address string; 
+                numRooms int; 
+                price float; 
+            }
+        

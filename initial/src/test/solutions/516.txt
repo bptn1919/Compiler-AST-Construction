@@ -1,0 +1,1 @@
+Program([ConstDecl(f,UnaryOp(-,IntLiteral(10)))])

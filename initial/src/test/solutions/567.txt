@@ -1,0 +1,1 @@
+Program([InterfaceType(Database,[Prototype(Query,[StringType],StringType)])])

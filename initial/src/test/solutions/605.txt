@@ -1,0 +1,1 @@
+Program([VarDecl(y,IntType,IntLiteral(42))])

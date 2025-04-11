@@ -1,0 +1,1 @@
+Program([MethodDecl(p,Id(Person),FuncDecl(GetName,[],StringType,Block([Return(StringLiteral("Alice"))])))])

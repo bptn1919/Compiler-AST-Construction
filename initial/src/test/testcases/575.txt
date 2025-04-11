@@ -1,0 +1,1 @@
+func main() { if (x == 1) { return; } else if (x == 2) { return; } else if (x == 3) { return; }; };

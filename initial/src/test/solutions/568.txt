@@ -1,0 +1,1 @@
+Program([InterfaceType(AudioPlayer,[Prototype(Play,[StringType],VoidType),Prototype(Pause,[],VoidType),Prototype(Stop,[],VoidType)])])

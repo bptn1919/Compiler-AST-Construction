@@ -1,0 +1,1 @@
+Program([FuncDecl(Add,[ParDecl(x,IntType),ParDecl(y,IntType)],IntType,Block([Return(Id(sum))])),ConstDecl(Add,IntLiteral(100))])

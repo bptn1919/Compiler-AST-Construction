@@ -1,0 +1,3 @@
+
+            func (t Transaction) Confirm() { t.status := "confirmed"; };
+        

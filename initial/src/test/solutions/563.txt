@@ -1,0 +1,1 @@
+Program([InterfaceType(Vehicle,[Prototype(Start,[],VoidType),Prototype(Stop,[],VoidType)])])

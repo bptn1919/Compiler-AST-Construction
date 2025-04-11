@@ -1,0 +1,1 @@
+Program([MethodDecl(m,Id(Manager),FuncDecl(ApproveRequest,[ParDecl(reqID,IntType)],VoidType,Block([Assign(FieldAccess(Id(m),approved),BooleanLiteral(true))])))])

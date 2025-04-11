@@ -1,0 +1,1 @@
+Program([MethodDecl(c,Id(Car),FuncDecl(SetSpeed,[ParDecl(speed,IntType)],VoidType,Block([Assign(FieldAccess(Id(c),speed),Id(speed))])))])

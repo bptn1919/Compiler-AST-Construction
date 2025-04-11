@@ -1,0 +1,4 @@
+
+            type daylastruct struct {
+                a int;
+            }

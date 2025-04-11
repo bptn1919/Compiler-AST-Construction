@@ -1,0 +1,1 @@
+Program([StructType(Computer,[(cpu,StringType),(ram,IntType),(ssd,BoolType)],[])])

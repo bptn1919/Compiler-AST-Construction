@@ -1,0 +1,1 @@
+Program([MethodDecl(a,Id(Account),FuncDecl(Deposit,[ParDecl(amount,FloatType)],VoidType,Block([Assign(FieldAccess(Id(a),balance),BinaryOp(FieldAccess(Id(a),balance),+,Id(amount)))])))])

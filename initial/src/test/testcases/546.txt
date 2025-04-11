@@ -1,0 +1,4 @@
+func foo(a int) float { 
+                        return 2.5; 
+                    }
+        

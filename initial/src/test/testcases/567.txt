@@ -1,0 +1,5 @@
+
+            type Database interface { 
+                Query(sql string) string;
+            }
+        

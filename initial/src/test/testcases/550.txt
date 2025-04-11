@@ -1,0 +1,8 @@
+func foo() {
+            if (1) { 
+            return; 
+            } else { 
+            return 2; 
+            } 
+            }
+            

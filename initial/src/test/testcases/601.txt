@@ -1,0 +1,3 @@
+
+            func (c Car) SetSpeed(speed int) { c.speed := speed; };
+        

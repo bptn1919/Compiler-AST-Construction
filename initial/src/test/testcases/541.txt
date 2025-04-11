@@ -1,0 +1,3 @@
+
+            func foo() int {return;}
+            func foo(haha int, hehe float) {return;}
